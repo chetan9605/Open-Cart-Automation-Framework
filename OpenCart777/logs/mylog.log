@@ -1,0 +1,228 @@
+[INFO ] 2024-08-10 02:39:46.109 [main] OpenCart777 - url opened
+[INFO ] 2024-08-10 02:39:46.269 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-10 02:58:30.656 [main] OpenCart777 - Test case started
+[INFO ] 2024-08-10 02:58:30.695 [main] OpenCart777 - url opened
+[INFO ] 2024-08-10 02:58:30.813 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-10 02:58:31.626 [main] OpenCart777 - click on Register
+[INFO ] 2024-08-10 02:58:31.634 [main] OpenCart777 - Register page we have
+[INFO ] 2024-08-10 02:58:31.804 [main] OpenCart777 - write first name
+[INFO ] 2024-08-10 02:58:31.971 [main] OpenCart777 - last name
+[INFO ] 2024-08-10 02:58:32.118 [main] OpenCart777 - gmail we write
+[INFO ] 2024-08-10 02:58:32.244 [main] OpenCart777 - mobile number
+[INFO ] 2024-08-10 02:58:32.362 [main] OpenCart777 - password
+[INFO ] 2024-08-10 02:58:32.496 [main] OpenCart777 - Confirm password
+[INFO ] 2024-08-10 02:58:32.592 [main] OpenCart777 - click check box
+[INFO ] 2024-08-10 02:58:33.319 [main] OpenCart777 - click on Continue
+[INFO ] 2024-08-10 02:58:33.322 [main] OpenCart777 - Account created page
+[INFO ] 2024-08-10 02:58:33.382 [main] OpenCart777 - get message
+[INFO ] 2024-08-10 02:58:33.386 [main] OpenCart777 - message we getting
+[INFO ] 2024-08-10 19:42:13.939 [main] OpenCart777 - Test case started
+[INFO ] 2024-08-10 19:42:13.971 [main] OpenCart777 - url opened
+[INFO ] 2024-08-10 19:42:14.096 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-10 19:42:15.144 [main] OpenCart777 - click on Register
+[INFO ] 2024-08-10 19:42:15.150 [main] OpenCart777 - Register page we have
+[INFO ] 2024-08-10 19:42:15.419 [main] OpenCart777 - write first name
+[INFO ] 2024-08-10 19:42:15.610 [main] OpenCart777 - last name
+[INFO ] 2024-08-10 19:42:15.787 [main] OpenCart777 - gmail we write
+[INFO ] 2024-08-10 19:42:15.966 [main] OpenCart777 - mobile number
+[INFO ] 2024-08-10 19:42:16.196 [main] OpenCart777 - password
+[INFO ] 2024-08-10 19:42:16.513 [main] OpenCart777 - Confirm password
+[INFO ] 2024-08-10 19:42:16.639 [main] OpenCart777 - click check box
+[INFO ] 2024-08-10 19:42:17.682 [main] OpenCart777 - click on Continue
+[INFO ] 2024-08-10 19:42:17.684 [main] OpenCart777 - Account created page
+[INFO ] 2024-08-10 19:42:17.745 [main] OpenCart777 - get message
+[INFO ] 2024-08-10 19:42:17.749 [main] OpenCart777 - message we getting
+[INFO ] 2024-08-10 19:43:11.253 [main] OpenCart777 - Test case started
+[INFO ] 2024-08-10 19:43:11.280 [main] OpenCart777 - url opened
+[INFO ] 2024-08-10 19:43:11.403 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-10 19:43:12.136 [main] OpenCart777 - click on Register
+[INFO ] 2024-08-10 19:43:12.140 [main] OpenCart777 - Register page we have
+[INFO ] 2024-08-10 19:43:12.263 [main] OpenCart777 - write first name
+[INFO ] 2024-08-10 19:43:12.406 [main] OpenCart777 - last name
+[INFO ] 2024-08-10 19:43:12.536 [main] OpenCart777 - gmail we write
+[INFO ] 2024-08-10 19:43:12.644 [main] OpenCart777 - mobile number
+[INFO ] 2024-08-10 19:43:12.756 [main] OpenCart777 - password
+[INFO ] 2024-08-10 19:43:12.872 [main] OpenCart777 - Confirm password
+[INFO ] 2024-08-10 19:43:12.957 [main] OpenCart777 - click check box
+[INFO ] 2024-08-10 19:43:13.604 [main] OpenCart777 - click on Continue
+[INFO ] 2024-08-10 19:43:13.606 [main] OpenCart777 - Account created page
+[INFO ] 2024-08-10 19:43:13.667 [main] OpenCart777 - get message
+[INFO ] 2024-08-10 19:43:13.672 [main] OpenCart777 - message we getting
+[INFO ] 2024-08-10 19:45:33.663 [TestNG-tests-2] OpenCart777 - click on my account
+[INFO ] 2024-08-10 19:45:33.669 [TestNG-tests-1] OpenCart777 - Test case started
+[INFO ] 2024-08-10 19:45:33.675 [TestNG-tests-1] OpenCart777 - url opened
+[INFO ] 2024-08-10 19:45:33.851 [TestNG-tests-1] OpenCart777 - click on my account
+[INFO ] 2024-08-10 19:45:34.726 [TestNG-tests-2] OpenCart777 - click on Register
+[INFO ] 2024-08-10 19:45:34.734 [TestNG-tests-2] OpenCart777 - Register page we have
+[INFO ] 2024-08-10 19:45:34.734 [TestNG-tests-1] OpenCart777 - click on Register
+[INFO ] 2024-08-10 19:45:34.742 [TestNG-tests-1] OpenCart777 - Register page we have
+[INFO ] 2024-08-10 19:45:35.004 [TestNG-tests-1] OpenCart777 - write first name
+[INFO ] 2024-08-10 19:45:35.011 [TestNG-tests-2] OpenCart777 - write first name
+[INFO ] 2024-08-10 19:45:35.176 [TestNG-tests-2] OpenCart777 - last name
+[INFO ] 2024-08-10 19:45:35.227 [TestNG-tests-1] OpenCart777 - last name
+[INFO ] 2024-08-10 19:45:35.428 [TestNG-tests-2] OpenCart777 - gmail we write
+[INFO ] 2024-08-10 19:45:35.437 [TestNG-tests-1] OpenCart777 - gmail we write
+[INFO ] 2024-08-10 19:45:35.604 [TestNG-tests-1] OpenCart777 - mobile number
+[INFO ] 2024-08-10 19:45:35.653 [TestNG-tests-2] OpenCart777 - mobile number
+[INFO ] 2024-08-10 19:45:35.787 [TestNG-tests-1] OpenCart777 - password
+[INFO ] 2024-08-10 19:45:35.857 [TestNG-tests-2] OpenCart777 - password
+[INFO ] 2024-08-10 19:45:35.975 [TestNG-tests-1] OpenCart777 - Confirm password
+[INFO ] 2024-08-10 19:45:36.073 [TestNG-tests-2] OpenCart777 - Confirm password
+[INFO ] 2024-08-10 19:45:36.108 [TestNG-tests-1] OpenCart777 - click check box
+[INFO ] 2024-08-10 19:45:36.222 [TestNG-tests-2] OpenCart777 - click check box
+[INFO ] 2024-08-10 19:45:37.036 [TestNG-tests-1] OpenCart777 - click on Continue
+[INFO ] 2024-08-10 19:45:37.044 [TestNG-tests-1] OpenCart777 - Account created page
+[INFO ] 2024-08-10 19:45:37.106 [TestNG-tests-1] OpenCart777 - get message
+[INFO ] 2024-08-10 19:45:37.114 [TestNG-tests-1] OpenCart777 - message we getting
+[INFO ] 2024-08-10 19:45:37.219 [TestNG-tests-2] OpenCart777 - click on Continue
+[INFO ] 2024-08-10 19:45:37.220 [TestNG-tests-2] OpenCart777 - Account created page
+[INFO ] 2024-08-10 19:45:37.296 [TestNG-tests-2] OpenCart777 - get message
+[INFO ] 2024-08-10 19:45:37.297 [TestNG-tests-2] OpenCart777 - message we getting
+[INFO ] 2024-08-10 20:30:30.529 [main] OpenCart777 - Test case started
+[INFO ] 2024-08-10 20:30:30.559 [main] OpenCart777 - url opened
+[INFO ] 2024-08-10 20:30:30.661 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-10 20:30:31.454 [main] OpenCart777 - click on Register
+[INFO ] 2024-08-10 20:30:31.460 [main] OpenCart777 - Register page we have
+[INFO ] 2024-08-10 20:30:31.600 [main] OpenCart777 - write first name
+[INFO ] 2024-08-10 20:30:31.730 [main] OpenCart777 - last name
+[INFO ] 2024-08-10 20:30:31.853 [main] OpenCart777 - gmail we write
+[INFO ] 2024-08-10 20:30:31.964 [main] OpenCart777 - mobile number
+[INFO ] 2024-08-10 20:30:32.068 [main] OpenCart777 - password
+[INFO ] 2024-08-10 20:30:32.180 [main] OpenCart777 - Confirm password
+[INFO ] 2024-08-10 20:30:32.265 [main] OpenCart777 - click check box
+[INFO ] 2024-08-10 20:30:33.113 [main] OpenCart777 - click on Continue
+[INFO ] 2024-08-10 20:30:33.115 [main] OpenCart777 - Account created page
+[INFO ] 2024-08-10 20:30:33.185 [main] OpenCart777 - get message
+[INFO ] 2024-08-10 20:30:33.189 [main] OpenCart777 - message we getting
+[INFO ] 2024-08-10 20:30:41.198 [main] OpenCart777 - Test case started
+[INFO ] 2024-08-10 20:30:41.198 [main] OpenCart777 - url opened
+[INFO ] 2024-08-10 20:30:41.287 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-10 20:30:42.093 [main] OpenCart777 - click on Register
+[INFO ] 2024-08-10 20:30:42.095 [main] OpenCart777 - Register page we have
+[INFO ] 2024-08-10 20:30:42.253 [main] OpenCart777 - write first name
+[INFO ] 2024-08-10 20:30:42.414 [main] OpenCart777 - last name
+[INFO ] 2024-08-10 20:30:42.545 [main] OpenCart777 - gmail we write
+[INFO ] 2024-08-10 20:30:42.672 [main] OpenCart777 - mobile number
+[INFO ] 2024-08-10 20:30:42.787 [main] OpenCart777 - password
+[INFO ] 2024-08-10 20:30:42.906 [main] OpenCart777 - Confirm password
+[INFO ] 2024-08-10 20:30:42.988 [main] OpenCart777 - click check box
+[INFO ] 2024-08-10 20:30:43.685 [main] OpenCart777 - click on Continue
+[INFO ] 2024-08-10 20:30:43.685 [main] OpenCart777 - Account created page
+[INFO ] 2024-08-10 20:30:43.736 [main] OpenCart777 - get message
+[INFO ] 2024-08-10 20:30:43.737 [main] OpenCart777 - message we getting
+[INFO ] 2024-08-10 20:37:12.711 [main] OpenCart777 - Test case started
+[INFO ] 2024-08-10 20:37:12.740 [main] OpenCart777 - url opened
+[INFO ] 2024-08-10 20:37:12.873 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-10 20:37:13.541 [main] OpenCart777 - click on Register
+[INFO ] 2024-08-10 20:37:13.545 [main] OpenCart777 - Register page we have
+[INFO ] 2024-08-10 20:37:13.671 [main] OpenCart777 - write first name
+[INFO ] 2024-08-10 20:37:13.798 [main] OpenCart777 - last name
+[INFO ] 2024-08-10 20:37:13.916 [main] OpenCart777 - gmail we write
+[INFO ] 2024-08-10 20:37:14.023 [main] OpenCart777 - mobile number
+[INFO ] 2024-08-10 20:37:14.119 [main] OpenCart777 - password
+[INFO ] 2024-08-10 20:37:14.221 [main] OpenCart777 - Confirm password
+[INFO ] 2024-08-10 20:37:14.297 [main] OpenCart777 - click check box
+[INFO ] 2024-08-10 20:37:14.995 [main] OpenCart777 - click on Continue
+[INFO ] 2024-08-10 20:37:14.997 [main] OpenCart777 - Account created page
+[INFO ] 2024-08-10 20:37:15.044 [main] OpenCart777 - get message
+[INFO ] 2024-08-10 20:37:15.048 [main] OpenCart777 - message we getting
+[INFO ] 2024-08-10 20:37:18.757 [main] OpenCart777 - Test case started
+[INFO ] 2024-08-10 20:37:18.758 [main] OpenCart777 - url opened
+[INFO ] 2024-08-10 20:37:18.882 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-10 20:37:19.391 [main] OpenCart777 - click on Register
+[INFO ] 2024-08-10 20:37:19.396 [main] OpenCart777 - Register page we have
+[INFO ] 2024-08-10 20:37:19.540 [main] OpenCart777 - write first name
+[INFO ] 2024-08-10 20:37:19.656 [main] OpenCart777 - last name
+[INFO ] 2024-08-10 20:37:19.793 [main] OpenCart777 - gmail we write
+[INFO ] 2024-08-10 20:37:19.907 [main] OpenCart777 - mobile number
+[INFO ] 2024-08-10 20:37:20.012 [main] OpenCart777 - password
+[INFO ] 2024-08-10 20:37:20.123 [main] OpenCart777 - Confirm password
+[INFO ] 2024-08-10 20:37:20.203 [main] OpenCart777 - click check box
+[INFO ] 2024-08-10 20:37:20.958 [main] OpenCart777 - click on Continue
+[INFO ] 2024-08-10 20:37:20.959 [main] OpenCart777 - Account created page
+[INFO ] 2024-08-10 20:37:21.011 [main] OpenCart777 - get message
+[INFO ] 2024-08-10 20:37:21.011 [main] OpenCart777 - message we getting
+[INFO ] 2024-08-10 20:41:15.879 [main] OpenCart777 - Test case started
+[INFO ] 2024-08-10 20:41:15.911 [main] OpenCart777 - url opened
+[INFO ] 2024-08-10 20:41:16.024 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-10 20:41:16.800 [main] OpenCart777 - click on Register
+[INFO ] 2024-08-10 20:41:16.805 [main] OpenCart777 - Register page we have
+[INFO ] 2024-08-10 20:41:16.932 [main] OpenCart777 - write first name
+[INFO ] 2024-08-10 20:41:17.084 [main] OpenCart777 - last name
+[INFO ] 2024-08-10 20:41:17.207 [main] OpenCart777 - gmail we write
+[INFO ] 2024-08-10 20:41:17.314 [main] OpenCart777 - mobile number
+[INFO ] 2024-08-10 20:41:17.416 [main] OpenCart777 - password
+[INFO ] 2024-08-10 20:41:17.519 [main] OpenCart777 - Confirm password
+[INFO ] 2024-08-10 20:41:17.606 [main] OpenCart777 - click check box
+[INFO ] 2024-08-10 20:41:18.315 [main] OpenCart777 - click on Continue
+[INFO ] 2024-08-10 20:41:18.318 [main] OpenCart777 - Account created page
+[INFO ] 2024-08-10 20:41:18.391 [main] OpenCart777 - get message
+[INFO ] 2024-08-10 20:41:18.396 [main] OpenCart777 - message we getting
+[INFO ] 2024-08-11 22:59:26.157 [main] OpenCart777 - Login Test case started
+[INFO ] 2024-08-11 22:59:26.750 [main] OpenCart777 - click on login
+[INFO ] 2024-08-11 23:03:51.270 [main] OpenCart777 - Login Test case started
+[INFO ] 2024-08-11 23:03:51.298 [main] OpenCart777 - Home page
+[INFO ] 2024-08-11 23:03:51.410 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-11 23:03:51.826 [main] OpenCart777 - click on login
+[INFO ] 2024-08-11 23:03:51.828 [main] OpenCart777 - Login page we have
+[INFO ] 2024-08-11 23:03:52.021 [main] OpenCart777 - email we write
+[INFO ] 2024-08-11 23:03:52.140 [main] OpenCart777 - password we write
+[INFO ] 2024-08-11 23:03:52.852 [main] OpenCart777 - click on login
+[INFO ] 2024-08-11 23:03:52.855 [main] OpenCart777 - Account page we have
+[INFO ] 2024-08-11 23:03:52.922 [main] OpenCart777 - verify account page
+[INFO ] 2024-08-11 23:03:52.926 [main] OpenCart777 - verify success
+[INFO ] 2024-08-12 01:34:42.290 [main] OpenCart777 - Login Test case started
+[INFO ] 2024-08-12 01:34:42.321 [main] OpenCart777 - Home page
+[INFO ] 2024-08-12 01:34:42.432 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-12 01:34:42.789 [main] OpenCart777 - click on login
+[INFO ] 2024-08-12 01:34:42.793 [main] OpenCart777 - Login page we have
+[INFO ] 2024-08-12 01:34:42.967 [main] OpenCart777 - email we write
+[INFO ] 2024-08-12 01:34:43.084 [main] OpenCart777 - password we write
+[INFO ] 2024-08-12 01:34:43.771 [main] OpenCart777 - click on login
+[INFO ] 2024-08-12 01:34:43.773 [main] OpenCart777 - Account page we have
+[INFO ] 2024-08-12 01:34:43.847 [main] OpenCart777 - verify account page
+[INFO ] 2024-08-12 01:34:43.851 [main] OpenCart777 - verify success
+[INFO ] 2024-08-12 03:48:58.006 [main] OpenCart777 - Login Test case started
+[INFO ] 2024-08-12 03:48:58.047 [main] OpenCart777 - Home page
+[INFO ] 2024-08-12 03:48:58.173 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-12 03:48:58.519 [main] OpenCart777 - click on login
+[INFO ] 2024-08-12 03:48:58.523 [main] OpenCart777 - Login page we have
+[INFO ] 2024-08-12 03:48:58.685 [main] OpenCart777 - email we write
+[INFO ] 2024-08-12 03:48:58.799 [main] OpenCart777 - password we write
+[INFO ] 2024-08-12 03:48:59.975 [main] OpenCart777 - Account page we have
+[INFO ] 2024-08-12 03:49:00.627 [main] OpenCart777 - Login Test case started
+[INFO ] 2024-08-12 03:49:00.629 [main] OpenCart777 - Home page
+[INFO ] 2024-08-12 03:49:00.704 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-12 03:49:01.066 [main] OpenCart777 - click on login
+[INFO ] 2024-08-12 03:49:01.068 [main] OpenCart777 - Login page we have
+[INFO ] 2024-08-12 03:49:01.222 [main] OpenCart777 - email we write
+[INFO ] 2024-08-12 03:49:01.321 [main] OpenCart777 - password we write
+[INFO ] 2024-08-12 03:49:02.714 [main] OpenCart777 - Account page we have
+[INFO ] 2024-08-12 03:49:03.796 [main] OpenCart777 - Login Test case started
+[INFO ] 2024-08-12 03:49:03.796 [main] OpenCart777 - Home page
+[INFO ] 2024-08-12 03:49:03.882 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-12 03:49:04.403 [main] OpenCart777 - click on login
+[INFO ] 2024-08-12 03:49:04.404 [main] OpenCart777 - Login page we have
+[INFO ] 2024-08-12 03:49:04.639 [main] OpenCart777 - email we write
+[INFO ] 2024-08-12 03:49:04.789 [main] OpenCart777 - password we write
+[INFO ] 2024-08-12 03:49:05.599 [main] OpenCart777 - Account page we have
+[INFO ] 2024-08-12 03:49:06.200 [main] OpenCart777 - Login Test case started
+[INFO ] 2024-08-12 03:49:06.204 [main] OpenCart777 - Home page
+[INFO ] 2024-08-12 03:49:06.335 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-12 03:49:06.776 [main] OpenCart777 - click on login
+[INFO ] 2024-08-12 03:49:06.777 [main] OpenCart777 - Login page we have
+[INFO ] 2024-08-12 03:49:06.956 [main] OpenCart777 - email we write
+[INFO ] 2024-08-12 03:49:07.085 [main] OpenCart777 - password we write
+[INFO ] 2024-08-12 03:49:07.715 [main] OpenCart777 - Account page we have
+[INFO ] 2024-08-12 03:49:22.841 [main] OpenCart777 - Login Test case started
+[INFO ] 2024-08-12 03:49:22.842 [main] OpenCart777 - Home page
+[INFO ] 2024-08-12 03:49:22.924 [main] OpenCart777 - click on my account
+[INFO ] 2024-08-12 03:49:23.321 [main] OpenCart777 - click on login
+[INFO ] 2024-08-12 03:49:23.322 [main] OpenCart777 - Login page we have
+[INFO ] 2024-08-12 03:49:23.481 [main] OpenCart777 - email we write
+[INFO ] 2024-08-12 03:49:23.617 [main] OpenCart777 - password we write
+[INFO ] 2024-08-12 03:49:24.438 [main] OpenCart777 - Account page we have
+[INFO ] 2024-08-13 20:58:19.778 [main] OpenCart777 - Login Test case started
+[INFO ] 2024-08-13 20:58:19.810 [main] OpenCart777 - Home page
+[INFO ] 2024-08-13 21:15:30.221 [main] OpenCart777 - Login Test case started
+[INFO ] 2024-08-13 21:15:30.261 [main] OpenCart777 - Home page
